@@ -1,4 +1,4 @@
-# Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
+# Ex.No:6 DC-Motor-Speed-Control-Using-Arduino
 ### AIM : 
 To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
 
